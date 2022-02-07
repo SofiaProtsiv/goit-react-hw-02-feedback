@@ -1,8 +1,8 @@
 import React from 'react';
-import Statistics from './statistics'
-import FeedbackOptions from './controls'
-import Section from './section'
-import Notification from './notification';
+import Statistics from './Statistics'
+import FeedbackOptions from './Controls'
+import Section from './Section'
+import Notification from './Notification';
 import style from './feedback.module.css';
 
 export default class FeedbackApp extends React.Component{

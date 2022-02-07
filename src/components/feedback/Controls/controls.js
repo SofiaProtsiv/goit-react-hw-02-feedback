@@ -1,5 +1,5 @@
 import React from "react";
-import style from './feedback.module.css';
+import style from '../feedback.module.css';
 import shortid from 'shortid';
 import PropTypes from 'prop-types';
 
